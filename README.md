@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # embarc README
 
 This is the README for your extension "embarc". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,6 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vscode_test
+>>>>>>> d34501ab0832a4c34abe7bb17de6733781e7bcbb
